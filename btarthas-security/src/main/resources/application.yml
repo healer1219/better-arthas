@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: btarthas-security
+server:
+  port: 7002
